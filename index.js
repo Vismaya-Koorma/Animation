@@ -1,3 +1,4 @@
+
 import * as THREE from "three";
 import { OrbitControls } from "jsm/controls/OrbitControls.js";
 
@@ -55,3 +56,5 @@ function animate(t = 0) {
 }
 
 animate();
+console.log('Robot Bobby was here');
+
